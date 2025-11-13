@@ -1,0 +1,9 @@
+langchain
+openai
+pinecone-client
+tiktoken
+fastapi
+uvicorn
+python-dotenv
+sentence-transformers
+pytest
